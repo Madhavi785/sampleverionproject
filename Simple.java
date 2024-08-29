@@ -1,4 +1,4 @@
-package com.verizon;
+
 
 public class Simple {
  
