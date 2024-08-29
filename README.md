@@ -1,2 +1,2 @@
 # sampleverionproject
-Git push clone
+Git jenkins
